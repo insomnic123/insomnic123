@@ -4,9 +4,9 @@
 I'm a passionate G11 High School Student from Canada with a strong background in Java & Python hoping to become a Computer Engineer! <br/>
 
 - 🌐 Currently, I'm learning web development through the use of frameworks such as NextJS and Spring🌿
-- 🧑‍🚀 I'm the Director of Marketing for Hack the Skies and a Co-Lead for Hack For Impact 
-- 📖 I've completed both CompSci for Gr. 11 and Gr. 12, becoming proficient in both Python and Java
+- 📖 I'm proficient in both Python and Java, having completed the equivalent of AP CSA in Gr. 11
 - 🤖 I'm researching into more hardware-based projects -- more coming soon!
+- 🧑‍🚀 I'm the Director of Marketing for Hack the Skies and a Co-Lead for Hack For Impact 
 
 ## 🛠️ Technical Skills
 **Programming Languages**: 
