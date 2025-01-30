@@ -9,24 +9,24 @@ I'm a passionate G11 High School Student from Canada with a strong background in
 - 🧑‍🚀 I'm the Director of Marketing for Hack the Skies and a Co-Lead for Hack For Impact 
 
 ## 🛠️ Technical Skills
-**Programming Languages**: 
+**Programming Languages**: <br/>
 Python🔵, Java🟠, JavaScript🟡
 
-**Web Development**: 
+**Web Development**: <br/>
 React, NextJS, HTML, CSS, JSX, Spring Boot, MongoDB
 
-**Tools & Technologies**: 
+**Tools & Technologies**: <br/>
 IntelliJ, VSCode, DaVinci Resolve, Figma, Canva, Photoshop, Github, Replit, Notion, Excel, OpenCV, PyGame, Matplotlib, Discord API
 
 ## 📂 Projects
 ### ChronoSync ⏱️
-Description: My first ever webdev project -- A calendar app which auto-schedules your tasks for you.
-Tech Stack: NextJS, Spring Boot, MongoDB, Figma
+Description: My first ever webdev project -- A calendar app which auto-schedules your tasks for you.<br/>
+Tech Stack: NextJS, Spring Boot, MongoDB, Figma<br/>
 🖥️ [Frontend Repo](https://github.com/insomnic123/cs-calendar-app) | 🌐 [Backend Repo](https://github.com/insomnic123/cs-calender-app-backend) | 🔨 [Testing Repo](https://github.com/insomnic123/CS-Calendar-App-Functionality-Testing)
 
 ### Spot-It 🃏
-Description: A recreation of the iconic game of Spot-It, made for the ICS4U1 Gr. 12 CompSci Course.
-Tech Stack: Java
+Description: A recreation of the iconic game of Spot-It, made for the ICS4U1 Gr. 12 CompSci Course.<br/>
+Tech Stack: Java<br/>
 🔗 [GitHub Repo](https://github.com/insomnic123/Java-Spot-It)
 
 ## 📫 Contact Me!
