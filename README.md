@@ -5,12 +5,11 @@ This page is being updated! <br/>
 # Hi there, I'm Qazi! 👋 
 
 ## 🚀 About Me
-I'm a passionate G11 High School Student from Canada with a strong background in Java & Python, hoping to become a Computer Engineer! <br/>
+I'm an incominig Computer Engineering student at TMU! <br/>
 
-- 🌐 Currently, I'm learning web development through the use of frameworks such as NextJS and Spring🌿
+- 🌐 Currently, I'm learning embedded systems through the development of personal projects (should be out soon!)
 - 📖 I'm proficient in both Python and Java, having completed the equivalent of AP CSP & AP CSA by Gr. 11
-- 🤖 I'm researching into more hardware-based projects -- more coming soon!
-- 🧑‍🚀 I'm the Vice Chair & Director of Marketing for [Hack the Skies](https://www.hacktheskies.com/)
+- 🧑‍🚀 I'm the former Chair for [Hack the Skies](https://www.hacktheskies.com/)
 - 📱 Check out my [portfolio site](https://qazi-ayan.vercel.app/)!
 
 ## 🛠️ Technical Skills
