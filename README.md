@@ -7,7 +7,7 @@ First-year Computer Engineering student at TMU. I am interested in embedded syst
 - A [mini-rover](https://github.com/insomnic123/TakeOff) 
 - A sensor kit for [rollator walkers](https://github.com/insomnic123/CEN100-Adaptive-Walker) that maps accessibility barriers on city streets
 
-## Currently also 
+### Currently also 
 - Advisor & Former Chair @ [HTS](https://www.hacktheskies.com/)
 - Python/Robotics Curriculum Maker + Instructor @ MakerKids
 - CE Rep @ FYEO of TMU
